@@ -1,6 +1,7 @@
 CUSTOMER SHOPPING BEHAVIOR ANALYSIS PROJECT README
 
 1. PROJECT OVERVIEW
+   
    This project analyzes customer shopping behavior using transactional data to understand spending patterns, purchase preferences, demographic influences, and subscription behavior. The workflow includes Python-based EDA, data cleaning, SQL analysis in MySQL Server, Power BI dashboard creation, and final reporting.
 
 ---
